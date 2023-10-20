@@ -1,6 +1,6 @@
 # Responsive Grocery Website Design
 
-![Website Preview](Screenshot 2023-10-14 233106.png)
+![Website Preview](image/Screenshot 2023-10-14 233106.png)
 
 This repository contains the source code for a responsive grocery website design. The design is optimized for various screen sizes and devices, ensuring a seamless user experience.
 
