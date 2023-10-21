@@ -1,5 +1,5 @@
 # Responsive Grocery Website Design
-
+## ScreenShot Of Groco website
 ![Website Preview](image/grocowebimg.png)
 
 This repository contains the source code for a responsive grocery website design. The design is optimized for various screen sizes and devices, ensuring a seamless user experience.
